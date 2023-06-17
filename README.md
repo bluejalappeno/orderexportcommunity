@@ -19,7 +19,8 @@ WARNING: We recommend you backup your Magento installation and database immediat
 1. Switch off the compiler under System > Tools > Compilation
 2. Ensure the cache is switched on under System > Cache Management
 3. After downloading the extension zip file, unzip to a local directory.
-4. Copy the 'app' directory from 'src' onto your base Magento installation, overwriting all files. 5. Note - this will not replace any core Magento files.
+4. Copy the 'app' directory from 'src' onto your base Magento installation, overwriting all files.
+   Note - this will not replace any core Magento files.
 5. If the zip contains 'app/design/frontend', ensure these files are merged into your theme
 6. If the zip contains 'app/design/adminhtml', ensure these files are merged into your theme
 7. If the zip contains a skin folder, ensure these files are merged into your theme
